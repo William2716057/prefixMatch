@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\balloons\balloons\obj\Debug\balloons.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\balloons\balloons\obj\Debug\balloons.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\balloons\balloons\bin\Microsoft.NodejsTools.WebRole.dll
